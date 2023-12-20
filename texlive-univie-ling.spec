@@ -1,6 +1,6 @@
 Name:		texlive-univie-ling
-Version:	64772
-Release:	2
+Version:	66728
+Release:	1
 Summary:	Papers, theses and research proposals in (Applied) Linguistics at Vienna University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/univie-ling
