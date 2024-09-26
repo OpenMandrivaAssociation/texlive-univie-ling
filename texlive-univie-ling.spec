@@ -1,5 +1,5 @@
 Name:		texlive-univie-ling
-Version:	71883
+Version:	72341
 Release:	1
 Summary:	Papers, theses and research proposals in (Applied) Linguistics at Vienna University
 Group:		Publishing
