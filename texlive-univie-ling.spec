@@ -3,7 +3,7 @@ Version:	72341
 Release:	1
 Summary:	Papers, theses and research proposals in (Applied) Linguistics at Vienna University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/univie-ling
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/univie-ling
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/univie-ling.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/univie-ling.doc.r%{version}.tar.xz
